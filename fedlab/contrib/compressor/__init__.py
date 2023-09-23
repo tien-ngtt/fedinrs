@@ -14,3 +14,4 @@
 
 from .quantization import QSGDCompressor
 from .topk import TopkCompressor
+from .poly import PolyCompressor
